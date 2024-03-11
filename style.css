@@ -1,0 +1,16 @@
+html {
+  height: 100%;
+  display: grid;
+}
+
+body {
+  margin: auto;
+}
+
+#messages {
+  width: 64px;
+  height: 64px;
+  float: right;
+  margin: 4px;
+  color: red;
+}
